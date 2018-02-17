@@ -8,4 +8,4 @@ This project has 6 Pages.
 3. LPUNEST Page
 4. UMS Login Page
 5. Placement record Page
-Please modify the content accordingly. Your Credit To This Repo will be appreciated.
+Please modify the content accordingly.
