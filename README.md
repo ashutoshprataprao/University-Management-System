@@ -1,5 +1,5 @@
 # University-Management-System
-This project is about to make a UMS for University students using HTML5 and CSS.
+This project is about to make a UMS for University students using HTML and CSS.
 I created this project for my university course name Internet Programming.
 The project contains the HTML, CSS files and images in images folder.
 This project has 6 Pages.
